@@ -3,4 +3,4 @@ CIS 120 - Web Development - Environment Setup
 
 Username: LanaPham
 
-Hello! My name is Lana. I am double majoring in Criminal Justice and Computer Information System. I am new to HTLM5 and am excited to learn. 
+Hello! My name is Lana. I am new to HTLM5 and am excited to learn. 
